@@ -1,0 +1,11 @@
+com.DefaultCompany.MurderHouse.resources
+color blue
+color custom
+color white
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+string action_settings
+string hello_world
+string loading
+style AppBaseTheme
+style AppTheme

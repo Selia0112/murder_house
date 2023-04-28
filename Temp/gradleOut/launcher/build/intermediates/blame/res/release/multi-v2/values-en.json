@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/unity-android-resources/build/intermediates/packaged_res/release/values-en/values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,139,179,237,293,346,399,439,730",
+                        "endLines": "2,3,4,5,6,7,8,10,17,20",
+                        "endColumns": "40,42,39,57,55,52,52,11,12,12",
+                        "endOffsets": "91,134,174,232,288,341,394,434,725,885"
+                    }
+                }
+            ]
+        }
+    ]
+}

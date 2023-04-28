@@ -1,0 +1,395 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:70-98
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:99-126
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:127-150
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:4:3-65
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:4:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:3-77
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:20-74
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:3-64
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:20-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:9:3-79
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:9:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:10:3-78
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:10:20-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:3-71
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:20-68
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:3-77
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:20-74
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:3-66
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:20-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:3-72
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:20-69
+uses-permission#android.permission.INJECT_EVENTS
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:3-70
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:20-67
+supports-screens
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:3-163
+	android:largeScreens
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:78-105
+	android:smallScreens
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:21-48
+	android:normalScreens
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:49-77
+	android:xlargeScreens
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:106-134
+	android:anyDensity
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:135-160
+application
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:3-80:17
+	android:requestLegacyExternalStorage
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:195-238
+	android:supportsRtl
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:168-194
+	android:label
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:16-48
+	android:debuggable
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:114-140
+	android:icon
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:239-270
+	android:allowBackup
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:141-167
+	android:theme
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:49-113
+meta-data#pvr.sdk.version
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:5-80
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:47-77
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:16-46
+meta-data#pvr.app.type
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:22:5-65
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:22:44-62
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:22:16-43
+meta-data#pvr.display.orientation
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:5-77
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:55-74
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:16-54
+activity#com.unity3d.player.UnityPlayerNativeActivityPico
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:5-32:16
+	android:screenOrientation
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:112-149
+	android:label
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:79-111
+	android:launchMode
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:150-181
+	android:hardwareAccelerated
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:364-399
+	android:configChanges
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:182-363
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:15-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:25:7-28:23
+action#android.intent.action.MAIN
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:7-82
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:59-79
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:18-58
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:30:7-97
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:30:73-94
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:30:18-72
+meta-data#android.notch_support
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:31:7-78
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:31:55-75
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:31:18-54
+activity#com.pico.loginpaysdk.UnityAuthInterface
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:33:5-34:16
+	android:screenOrientation
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:33:70-107
+	android:configChanges
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:33:108-178
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:33:15-69
+activity#com.pico.loginpaysdk.component.PicoSDKBrowser
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:35:5-36:16
+	android:windowSoftInputMode
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:35:127-169
+	android:exported
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:35:170-194
+	android:configChanges
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:35:76-126
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:35:15-75
+service#com.picovr.hummingbirdsvc.AutoConnectService
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:37:5-41:15
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:37:14-73
+intent-filter#action:name:com.picovr.hummingbirdsvc.AutoConnectService
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:38:7-40:23
+action#com.picovr.hummingbirdsvc.AutoConnectService
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:39:9-79
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:39:17-76
+service#com.picovr.picovrlib.hummingbird.HummingBirdControllerService
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:42:5-46:15
+	android:process
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:42:91-116
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:42:14-90
+intent-filter#action:name:com.picovr.picovrlib.humingbird.HumingBirdAIDLService
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:43:7-45:23
+action#com.picovr.picovrlib.humingbird.HumingBirdAIDLService
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:44:9-88
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:44:17-85
+meta-data#pico_merchant_id
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:47:5-69
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:47:48-66
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:47:16-47
+meta-data#pico_app_id
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:48:5-94
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:48:43-91
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:48:16-42
+meta-data#pico_app_key
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:49:5-95
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:49:44-92
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:49:16-43
+meta-data#pico_pay_key
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:50:5-95
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:50:44-92
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:50:16-43
+meta-data#pico_redirectUrl
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:51:5-88
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:51:48-85
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:51:16-47
+meta-data#pico_scope
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:53:5-74
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:53:42-71
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:53:16-41
+meta-data#com.pvr.instructionset
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:54:5-75
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:54:54-72
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:54:16-53
+meta-data#platform_logo
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:56:5-65
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:56:45-62
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:56:16-44
+meta-data#LoadingContent
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:58:5-83
+	android:resource
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:58:46-80
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:58:16-45
+meta-data#loadingcolor
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:59:5-79
+	android:resource
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:59:44-76
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:59:16-43
+meta-data#loadingtextsize
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:60:5-68
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:60:47-65
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:60:16-46
+meta-data#loadingwidth
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:61:5-66
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:61:44-63
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:61:16-43
+meta-data#loadingheight
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:63:5-67
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:63:45-64
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:63:16-44
+meta-data#loadingmarquee
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:65:5-66
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:65:46-63
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:65:16-45
+meta-data#bottommargin
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:67:5-66
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:67:44-63
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:67:16-43
+meta-data#marqueecount
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:68:5-65
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:68:44-62
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:68:16-43
+meta-data#loadingalign
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:69:5-67
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:69:44-64
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:69:16-43
+meta-data#com.pvr.hmd.trackingmode
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:70:5-79
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:70:56-76
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:70:16-55
+meta-data#isPUI
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:71:5-57
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:71:37-54
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:71:16-36
+meta-data#enable_eyetracking
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:72:5-70
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:72:50-67
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:72:16-49
+meta-data#enable_cpt
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:73:5-62
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:73:42-59
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:73:16-41
+meta-data#platform_high
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:74:5-65
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:74:45-62
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:74:16-44
+meta-data#enable_entitlementcheck
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:75:5-75
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:75:55-72
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:75:16-54
+meta-data#unity.splash-mode
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:76:5-69
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:76:49-66
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:76:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:77:5-74
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:77:51-71
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:77:16-50
+meta-data#notch.config
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:78:5-81
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:78:44-78
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:78:16-43
+meta-data#unity.build-id
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:79:5-101
+	android:value
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:79:46-98
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:79:16-45
+uses-feature#0x00030000
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:81:3-52
+	android:glEsVersion
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:81:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:82:3-91
+	android:required
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:82:64-88
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:82:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:83:3-88
+	android:required
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:83:61-85
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:83:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:84:3-99
+	android:required
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:84:72-96
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:84:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:85:3-108
+	android:required
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:85:81-105
+	android:name
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:85:17-80
+uses-sdk
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml

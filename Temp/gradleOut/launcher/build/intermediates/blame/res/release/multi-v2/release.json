@@ -1,0 +1,227 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/unity-android-resources/build/intermediates/packaged_res/release/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,139,179,237,293,346,399,439,730",
+                        "endLines": "2,3,4,5,6,7,8,10,17,20",
+                        "endColumns": "40,42,39,57,55,52,52,11,12,12",
+                        "endOffsets": "91,134,174,232,288,341,394,434,725,885"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "31,33,36",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1528,1628,1766",
+                        "endLines": "32,35,39",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "1623,1761,1988"
+                    }
+                },
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/unity-android-resources/build/intermediates/packaged_res/release/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,139,179,237,293,346,399,439,730",
+                        "endLines": "2,3,4,5,6,7,8,10,17,20",
+                        "endColumns": "40,42,39,57,55,52,52,11,12,12",
+                        "endOffsets": "91,134,174,232,288,341,394,434,725,885"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,9,18,19,21,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,139,179,237,379,984,1037,1077,1368",
+                        "endLines": "2,3,4,5,6,9,18,20,27,30",
+                        "endColumns": "40,42,39,57,55,52,52,11,12,12",
+                        "endOffsets": "91,134,174,232,288,427,1032,1072,1363,1523"
+                    }
+                },
+                {
+                    "source": "/Users/fangshiyuan/.gradle/caches/transforms-2/files-2.1/bf2676ba105914d4bddeccb257961b07/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,113,170,256,340,436",
+                        "endColumns": "57,56,85,83,95,53",
+                        "endOffsets": "108,165,251,335,431,485"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "481,539,596,682,766,862",
+                        "endColumns": "57,56,85,83,95,53",
+                        "endOffsets": "534,591,677,761,857,911"
+                    }
+                },
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,100",
+                        "endColumns": "46,65",
+                        "endOffsets": "97,163"
+                    },
+                    "to": {
+                        "startLines": "10,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "432,916",
+                        "endColumns": "48,67",
+                        "endOffsets": "476,979"
+                    }
+                },
+                {
+                    "source": "/Users/fangshiyuan/.gradle/caches/transforms-2/files-2.1/d9efae276429df17d9a8422e3af4a7f9/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "293",
+                        "endColumns": "39",
+                        "endOffsets": "328"
+                    }
+                },
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "333",
+                        "endColumns": "45",
+                        "endOffsets": "374"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-en_values-en.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/unity-android-resources/build/intermediates/packaged_res/release/values-en/values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,139,179,237,293,346,399,439,730",
+                        "endLines": "2,3,4,5,6,7,8,10,17,20",
+                        "endColumns": "40,42,39,57,55,52,52,11,12,12",
+                        "endOffsets": "91,134,174,232,288,341,394,434,725,885"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-v28_values-v28.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/src/main/res/values-v28/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/unity-android-resources/build/intermediates/packaged_res/release/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,139,179,237,293,346,399,439,730",
+                        "endLines": "2,3,4,5,6,7,8,10,17,20",
+                        "endColumns": "40,42,39,57,55,52,52,11,12,12",
+                        "endOffsets": "91,134,174,232,288,341,394,434,725,885"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/fangshiyuan/Downloads/MurderHouse/Temp/gradleOut/unityLibrary/unity-android-resources/build/intermediates/packaged_res/release/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,139,179,237,293,346,399,439,730",
+                        "endLines": "2,3,4,5,6,7,8,10,17,20",
+                        "endColumns": "40,42,39,57,55,52,52,11,12,12",
+                        "endOffsets": "91,134,174,232,288,341,394,434,725,885"
+                    }
+                }
+            ]
+        }
+    ]
+}

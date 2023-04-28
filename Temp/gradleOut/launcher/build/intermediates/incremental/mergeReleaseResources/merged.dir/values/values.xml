@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#ff0000ff</color>
+    <color name="custom">#FFFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="titlebarLy" type="id"/>
+    <item name="unitySurfaceView" type="id"/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">MurderHouse</string>
+    <string name="dialog_button1_zh_CN">原地设置安全边界</string>
+    <string name="dialog_button2_zh_CN">自定义安全边界</string>
+    <string name="dialog_content_gobcak_zh_CN">你已离开游戏安全区，请返回安全区边界内或者重新设置安全边界</string>
+    <string name="dialog_content_lost_zh_CN">请勿遮挡前方摄像头，保持室内光线充足。请您重新设置安全边界</string>
+    <string name="dialog_content_toofar_zh_CN">你已离开游戏安全区过远，请摘下头戴显示器，返回安全区边界内或者重新设置安全边界</string>
+    <string name="dialog_title_zh_CN">安全区警告：</string>
+    <string name="game_view_content_description">Game view</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loading">
+  </string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+</style>
+    <style name="UnityThemeSelector" parent="BaseUnityTheme">
+	<item name="android:windowBackground">@android:color/black</item>
+</style>
+    <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+</style>
+</resources>
